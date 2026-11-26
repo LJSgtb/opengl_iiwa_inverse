@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>CoordinateX.frag</file>
+        <file>CoordinateX.vert</file>
+        <file>stl.frag</file>
+        <file>stl.vert</file>
+    </qresource>
+    <qresource prefix="/model">
+        <file>model/base.txt</file>
+        <file>model/J1.txt</file>
+        <file>model/J2.txt</file>
+        <file>model/J3.txt</file>
+        <file>model/J4.txt</file>
+        <file>model/J5.txt</file>
+        <file>model/J6.txt</file>
+        <file>model/J7.txt</file>
+    </qresource>
+</RCC>
